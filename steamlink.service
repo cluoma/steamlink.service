@@ -2,7 +2,7 @@
 Description=Start Steam Link at desktop load
 
 [Service]
-Type=forking
+Type=simple
 User=pi
 ExecStart=/usr/bin/steamlink
 #Restart=always
