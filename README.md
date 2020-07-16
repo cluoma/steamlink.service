@@ -10,3 +10,8 @@ sudo systemctl daemon-reload
 sudo systemctl enable steamlink.service
 ```
 Reboot your Pi and it should boot directly into Steam Link.
+
+If you would like to disable the service, run:
+```
+sudo systemctl disable steamlink.service
+```
