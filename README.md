@@ -1,3 +1,5 @@
+**This repo is extremely outdated and unlikely to work as intended.**
+
 # steamlink.service
 A systemd service file for Steam Link on Raspberry Pi
 
